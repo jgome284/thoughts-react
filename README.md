@@ -1,4 +1,4 @@
-# Capture Passing Thoughts in React 🧠⚛️
+# Passing Thoughts in React ⚛️
 
 <br />
 <p align="center">
@@ -9,7 +9,7 @@
   <h3 align="center">Foreword</h3>
 
   <p align="center">
-    A React webapp to capture your fleeting thoughts....
+    A React webapp to capture your passing thoughts.... 🧠💡
     <br />
     <a href="https://github.com/jgome284/thoughts-react/issues">Report Bug</a>
     ·
@@ -19,7 +19,7 @@
 
 ## Table of Contents
 
-- [Capture Passing Thoughts in React 🧠⚛️](#capture-passing-thoughts-in-react-️)
+- [Passing Thoughts in React ⚛️](#passing-thoughts-in-react-️)
   - [Table of Contents](#table-of-contents)
   - [Setup](#setup)
   - [About](#about)
