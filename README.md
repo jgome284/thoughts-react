@@ -67,13 +67,19 @@ When the Dev Container launches, `cd` to the [`thoughts`](./thoughts/) directory
 npm install
 ```
 
-With dependencies installed, try running the application's build script! Our `package.json` has this aliased to the following command via npm.
+Our `package.json` has many useful scripts aliased via npm. To run the development version of the webapp run the following command.
+
+```sh
+npm start
+```
+
+If you make changes you can package a new production build of the application via the following command. If successful, you should see updated files in the [`build`](./thoughts/build/) folder for the webapp.
 
 ```sh
 npm run build
 ```
 
-If successful, you should see a [`build`](./thoughts/build/) folder for the webapp. You can deploy the production build of the webapp on your local machine via the `serve` command detailed below. Then, open the webapp on localhost:3000 ... Now add fleeting thought that warm your merry heart! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ ❤️!
+You can deploy the production build of the webapp on your local machine via the `serve` command detailed below. Then, open the webapp on [localhost:3000](http://localhost:3000) ... Make use of the webapp to add fleeting thoughts that warm your merry heart! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ ❤️!
 
 ```sh
 serve -s thoughts/build
